@@ -4,6 +4,12 @@ body {
     font-family: Helvetica, Arial, "Times New Roman";
 }
 
+.alltitles {
+    text-align:center;
+    font-weight: bold;
+
+}
+
 img {
     display: block;
     margin-left: auto;
@@ -16,3 +22,7 @@ img {
     text-align:center;
 }
 
+.recipelist p {
+    margin: 0;
+    padding: 0;
+}
